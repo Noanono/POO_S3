@@ -1,0 +1,9 @@
+[submodule "class_point"]
+	path = class_point
+	url = git@github.com:Noanono/class_point.git
+[submodule "fonctions_permutation"]
+	path = fonctions_permutation
+	url = git@github.com:Noanono/fonctions_permutation.git
+[submodule "Exercice_revision_type_point"]
+	path = Exercice_revision_type_point
+	url = git@github.com:Noanono/Exercice_revision_type_point.git

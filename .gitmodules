@@ -7,3 +7,6 @@
 [submodule "Exercice_revision_type_point"]
 	path = Exercice_revision_type_point
 	url = git@github.com:Noanono/Exercice_revision_type_point.git
+[submodule "class_compte"]
+	path = class_compte
+	url = git@github.com:Noanono/class_compte.git

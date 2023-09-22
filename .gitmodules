@@ -10,3 +10,6 @@
 [submodule "class_compte"]
 	path = class_compte
 	url = git@github.com:Noanono/class_compte.git
+[submodule "class_suite"]
+	path = class_suite
+	url = git@github.com:Noanono/class_suite.git

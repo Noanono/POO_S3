@@ -13,3 +13,6 @@
 [submodule "class_suite"]
 	path = class_suite
 	url = git@github.com:Noanono/class_suite.git
+[submodule "TP1_complexe"]
+	path = TP1_complexe
+	url = git@github.com:Noanono/TP1_complexe.git

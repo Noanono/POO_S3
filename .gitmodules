@@ -16,3 +16,9 @@
 [submodule "TP1_complexe"]
 	path = TP1_complexe
 	url = git@github.com:Noanono/TP1_complexe.git
+[submodule "TP2_ChaineCar"]
+	path = TP2_ChaineCar
+	url = git@github.com:Noanono/TP2_ChaineCar.git
+[submodule "TP3_chainecar_point"]
+	path = TP3_chainecar_point
+	url = git@github.com:Noanono/TP3_chainecar_point.git
